@@ -11,4 +11,4 @@ class MyServer
   end
 end
 
-  run my_server
+  run MyServer.new
